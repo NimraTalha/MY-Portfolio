@@ -48,7 +48,7 @@ const Hero = () => {
       
         {/* Responsive paragraph and profile picture */}
         <p className="text-center text-lg sm:text-xl max-w-[90%] sm:max-w-[500px] mx-auto mt-6 sm:mt-8 text-white/80">
-          I am a full-stack developer focused on creating websites that provide the best experience for users.
+          I am a front-end developer focused on creating websites that provide the best experience for users.
         </p>
         
         <div className="flex justify-center mt-6 sm:mt-8">
